@@ -20,7 +20,7 @@
   --bs-yellow: #ffc107;
   --bs-green: #f1f105;
   --bs-teal: #eef617;
-  --bs-cyan: #0dcaf0;
+  --bs-cyan: hwb(66 5% 6%);
   --bs-white: #fff;
   --bs-gray: #6c757d;
   --bs-gray-dark: #343a40;
@@ -36,7 +36,7 @@
   --bs-primary: hwb(61 5% 2%);
   --bs-secondary: #2c3e50;
   --bs-success: hsl(57, 91%, 49%);
-  --bs-info: #0dcaf0;
+  --bs-info: #c7f805;
   --bs-warning: #ffc107;
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
